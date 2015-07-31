@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<concrete5-cif version="1.0">
+    <systemcontenteditorsnippets>
+        <snippet name="Parent Page Name" handle="parent_page_name" activated="1" package="basic_snippets_pack" />
+        <snippet name="Page Type Name" handle="page_type_name" activated="1" package="basic_snippets_pack" />
+        <snippet name="Page Author Name" handle="page_author_name" activated="1" package="basic_snippets_pack" />
+    </systemcontenteditorsnippets>
+</concrete5-cif>
