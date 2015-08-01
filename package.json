@@ -1,0 +1,13 @@
+{
+  "name": "addon_basic_snippets_pack",
+  "description": "Adds useful snippets to Redactor editor in your concrete5 site.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hissy/addon_basic_snippets_pack.git"
+  },
+  "author": "Takuro Hishikawa <hishikawa@concrete5.co.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-zip": "latest"
+  }
